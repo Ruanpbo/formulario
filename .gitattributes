@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=@RuanPablo
+git config --global user.email "Ruanpbo@hotmail.com "
+git config --global user.name "Ruan PABLO"
