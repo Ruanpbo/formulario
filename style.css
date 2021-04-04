@@ -2,7 +2,6 @@ body{
     background-color: aquamarine;
 }
 .body{ 
-    display: flex;
     height: auto;
     width: 600px; 
     margin-left: auto;
